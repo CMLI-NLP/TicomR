@@ -40,21 +40,5 @@ TiComR: A Prompt-based Tibetan Conversational Reading Comprehension Model
 | TBERT     | 37.4             | 21.8            | -           | -           |
 | TicomR    | 82.1             | 58.9            | 78.1        | 50.6        |
 
-## 参考文献
-[1]Chen D, Fisch A, Weston J, et al. Reading wikipedia to answer open-domain questions[J]. arXiv preprint arXiv:1704.00051, 2017.
-
-[2]Zhu C, Zeng M, Huang X. Sdnet: Contextualized attention-based deep network for conversational question answering[J]. arXiv preprint arXiv:1812.03593, 2018.
-
-[3]Liu S, Deng J, Sun Y, et al. Tibert: Tibetan pre-trained language model[C]//2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2022: 2956-2961.
-
-[4]https://github.com/TBNLP/TiconvQA
-
-[5]https://github.com/NLP-Learning/TiLamb
-
-[6]https://github.com/Dslab-NLP/Tibetan-PLM
-
-[7]Zhao W X, Zhou K, Li J, et al. A survey of large language models[J]. arXiv preprint arXiv:2303.18223, 2023.
-
-[8]Liu P, Yuan W, Fu J, et al. Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing[J]. ACM Computing Surveys, 2023, 55(9): 1-35.
-
-...
+## 引用
+朋毛才让, 邓俊杰, 孙媛*. 基于证据提取和神经元激活探测的藏文机器阅读理解可解释性研究. 中文信息学报, 2024.
