@@ -42,3 +42,6 @@ TiComR: A Prompt-based Tibetan Conversational Reading Comprehension Model
 
 ## 引用
 朋毛才让, 邓俊杰, 孙媛*. 基于证据提取和神经元激活探测的藏文机器阅读理解可解释性研究. 中文信息学报, 2024.
+
+## 免责申明
+本数据集/模型仅供学术研究使用。禁止用于任何商业或不道德的目的。
